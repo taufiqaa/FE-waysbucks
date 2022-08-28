@@ -88,7 +88,7 @@ function Profile() {
                 <img
                   className="picture-menuPurchased"
                   src={
-                    "http://localhost:2500/uploads/" + item?.product?.image
+                    "https://picsum.photos/id/237/200/300"
                   }
                   alt=""
                 />
